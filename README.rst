@@ -13,7 +13,6 @@ To build, use golang 1.9 or later.
 
 ::
 
-  % go get -u
   % go build
 
 Then just run it. If not specify port, use *9501* port.
